@@ -1,0 +1,60 @@
+\ifglsentryexists{sm}{}%
+{%
+\gls@defglossaryentry{sm}%
+{%
+name={چند‌پردازنده جریانی},%
+sort={چند‌پردازنده جریانی},%
+type={main},%
+first={چند‌پردازنده جریانی},%
+firstplural={چند‌پردازنده جریانیs},%
+text={چند‌پردازنده جریانی},%
+plural={چند‌پردازنده جریانیs},%
+description={Streaming Multiprocessor},%
+descriptionplural={Streaming Multiprocessor},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sharedaddressspace}{}%
+{%
+\gls@defglossaryentry{sharedaddressspace}%
+{%
+name={فضای‌آدرس‌دهی مشترک},%
+sort={فضای‌آدرس‌دهی مشترک},%
+type={main},%
+first={فضای‌آدرس‌دهی مشترک},%
+firstplural={فضای‌آدرس‌دهی مشترکs},%
+text={فضای‌آدرس‌دهی مشترک},%
+plural={فضای‌آدرس‌دهی مشترکs},%
+description={Shared Address Space},%
+descriptionplural={Shared Address Space},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
