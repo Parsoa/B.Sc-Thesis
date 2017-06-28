@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1‏.‏1}{\ignorespaces پیش‌بینی رشد چگالی توان پردازنده‌ها}}{2}{figure.1.1}
+\contentsline {figure}{\numberline {1‏.‏2}{\ignorespaces ساختار داخلی یک چندپردازنده جریانی در معماری Kepler }}{4}{figure.1.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2‏.‏1}{\ignorespaces تبعیت رشد تعداد ترانزیستور‌ها از قانون مور}}{10}{figure.2.1}
+\contentsline {figure}{\numberline {2‏.‏2}{\ignorespaces شکاف بین عملکرد حافظه و پردازنده}}{11}{figure.2.2}
+\contentsline {figure}{\numberline {2‏.‏3}{\ignorespaces سلسله مراتب حافظه در یک پردازنده امروزی}}{11}{figure.2.3}
+\contentsline {figure}{\numberline {2‏.‏4}{\ignorespaces شکاف بین عملکرد پردازنده مرکزی و پردازنده گرافیکی در محاسبات عددی}}{12}{figure.2.4}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4‏.‏1}{\ignorespaces همبستگی نرخ IPC میان شبیه‌ساز و سخت‌افزار نسل Fermi }}{17}{figure.4.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5‏.‏1}{\ignorespaces روند رشد نرخ برخورد با افزایش اندازه حافظه نهان برای بارکاری NN از پکیج ISPASS }}{26}{figure.5.1}
+\contentsline {figure}{\numberline {5‏.‏2}{\ignorespaces روند رشد نرخ برخورد با افزایش اندازه حافظه نهان برای بارکاری SAD از پکیج پاربویل }}{27}{figure.5.2}
+\contentsline {figure}{\numberline {5‏.‏3}{\ignorespaces روند رشد نرخ برخورد با افزایش اندازه حافظه نهان برای بارکاری Leukocyte از پکیج رودینیا }}{28}{figure.5.3}
+\contentsline {figure}{\numberline {5‏.‏4}{\ignorespaces نرخ IPC برای اندازه‌های متفاوت حافظه نهان بنچمارک ISPASS }}{30}{figure.5.4}
+\contentsline {figure}{\numberline {5‏.‏5}{\ignorespaces نرخ IPC برای اندازه‌های متفاوت حافظه نهان بنچمارک پاربویل }}{31}{figure.5.5}
+\contentsline {figure}{\numberline {5‏.‏6}{\ignorespaces نرخ IPC برای اندازه‌های متفاوت حافظه نهان بنچمارک رودینیا }}{31}{figure.5.6}
+\addvspace {10\p@ }

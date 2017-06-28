@@ -12,3 +12,16 @@
 \BOOKMARK [0][-]{chapter.3}{کارهای پیشین}{}% 12
 \BOOKMARK [0][-]{chapter.4}{انگیزه و شهود}{}% 13
 \BOOKMARK [1][-]{section.4.1}{حافظه چرک‌نویس}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.2}{حافظه مشترک}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.3}{شبیه‌ساز GPGPUSim}{chapter.4}% 16
+\BOOKMARK [2][-]{subsection.4.3.1}{ثبت دسترسی‌ها به حافظه در شبیه‌ساز}{section.4.3}% 17
+\BOOKMARK [1][-]{section.4.4}{بارهای کاری مورد استفاده}{chapter.4}% 18
+\BOOKMARK [2][-]{subsection.4.4.1}{دسترسی به حافظه مشترک در بارهای کاری مورد بررسی و انگیز اولیه}{section.4.4}% 19
+\BOOKMARK [1][-]{section.4.5}{معماری جایگزین پیشنهادی}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{نتایج بررسی}{}% 21
+\BOOKMARK [1][-]{section.5.1}{جمع آوری داده}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.2}{عملکرد حافظه نهان برای آدرس‌های حافظه اصلی پردازنده گرافیکی}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.3}{عملکرد حافظه نهان برای آدرس‌های حافظه مشترک}{chapter.5}% 24
+\BOOKMARK [2][-]{subsection.5.3.1}{بررسی بهبود نرخ دستور در واحد زمان}{section.5.3}% 25
+\BOOKMARK [0][-]{chapter.6}{جمع‌بندی و کار‌های آینده}{}% 26
+\BOOKMARK [0][-]{chapter*.5}{کتاب‌نامه}{}% 27
